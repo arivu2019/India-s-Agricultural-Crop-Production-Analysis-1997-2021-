@@ -13,3 +13,4 @@ STORY PUBLIC LINK - https://public.tableau.com/views/IndiasAgriculturecrop/Story
 VIDEO DEMONSTRATION - https://drive.google.com/file/d/1BCv6fuBLknM_imVvsmQ76aU3bvN5re33/view?usp=drivesdk
 
 DATASET LINK - https://drive.google.com/file/d/1L_-CLAqes43mbEPSnYHtEHa6eET6ea7s/view?usp=sharing
+EMPATHY MAP  - https://github.com/arivu2019/India-s-Agricultural-Crop-Production-Analysis-1997-2021-/blob/main/empathy%20map.pdf
